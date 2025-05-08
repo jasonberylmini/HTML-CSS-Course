@@ -1,0 +1,15 @@
+.cat-picture{
+  /* width: 200px;
+  border-radius: 10px; */
+  /* width: 200px;
+  height: 200px;
+  border:2px;
+  border-color: red;
+  object-fit: cover;
+  object-position: center; */
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+}

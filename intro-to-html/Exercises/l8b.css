@@ -1,0 +1,11 @@
+.survey-call{
+  width:200px;
+  display:inline-block;
+  vertical-align: middle;
+}
+
+.yes-button,
+.no-button{
+  display:inline-block;
+  vertical-align: middle;
+}

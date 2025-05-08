@@ -1,0 +1,64 @@
+div{
+  font-family: Arial;
+}
+
+.mail-box{
+  width: 370px;
+  box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.2);
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.row1{
+  font-size: 16px;
+  color: grey;
+  margin-bottom: 20px;
+}
+
+.row2{
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.picture{
+ width: 50px;
+ height: 50px;
+ object-fit: cover;
+ border-radius: 25px;
+}
+
+.profile-info{
+  margin-left: 10px;
+  flex: 1;
+}
+
+.name-time{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.name{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.time{
+  font-size: 12px;
+  color: grey;
+}
+
+.nickname{
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 4px;
+
+}
+
+.message{
+  font-size: 14px;
+  color: grey;
+}

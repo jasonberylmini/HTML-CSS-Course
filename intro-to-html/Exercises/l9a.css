@@ -1,0 +1,50 @@
+.div1{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.div2{
+  background-color: green;
+  width:100px;
+  height:100px;
+  border-radius: 50px;
+  margin-bottom: 10px;
+}
+
+.div3{
+  p{
+    font-family: Arial;
+  }
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(150, 150, 150);
+  width: 300px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+
+.div4{
+  width:270px;
+  background-color: rgb(22, 20, 20);
+  padding-left: 7px;
+  padding-top: 7px;
+  padding-bottom:7px;
+  padding-right: 7px;
+
+  p{
+    margin-top:0px;
+    margin-bottom: 0px;
+    font-family: Arial;
+    color:white;
+  }
+  .title{
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .additional-info{
+    font-size: 12px;
+    color:grey;
+  }
+}
