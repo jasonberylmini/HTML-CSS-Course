@@ -1,0 +1,47 @@
+div{
+  font-family: Arial;
+}
+
+.product-case{
+  position: relative;
+  border-width: 1px;
+  /* border-color: black;
+  border-style: solid; */
+  display: inline-block;
+}
+
+.shirt-pic{
+  height: 200px;
+  width:200px;
+  object-fit: cover;
+}
+
+.discount-info{
+  font-size: 12px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  right: 0;
+  top:10px;
+}
+
+.bg-design{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background-color: rgba(255, 255, 255, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-button{
+  padding: 7px ;
+  font-size: 12px;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+}
